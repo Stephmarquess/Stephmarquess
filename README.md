@@ -1,6 +1,6 @@
 # Welcome! 👋
 
-| :brazil: Olá, sou Stéfany | :us: Hello, I'm Stéfany | :es: Hola, soy Stéfany  | :de: Hallo, Ich bin Stéfany |
+| ![Brazil](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png "Brazil") Olá, sou Stéfany | ![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States") Hello, I'm Stéfany | ![Spain](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/es.png "Spain") Hola, soy Stéfany  | ![Germany](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/de.png "Germany") Hallo, Ich bin Stéfany |
 | --- | --- | --- | --- |
 | • 🔱 Psicóloga em transição de carreira;<br>• 📝 Estudante Full Stack;<br>• 📝 Atualmente, focada em Java e React;<br>• Idiomas:<br> Inglês, Espanhol, Alemão;<br>• 📍 Juazeiro de Norte, Ceará - Brasil. | • 🔱 Psychologist in career transition;<br>• 📝 Full Stack Student;<br>• 📝 Currently, focused on Java and React;<br>• Languages:<br> English, Spanish, German;<br> - 📍 Juazeiro de Norte, Ceará - Brazil. | • 🔱 Psicologa en transición profesional;<br>• 📝 Estudiante Full Stack;<br>• 📝 Actualmente, enfocada en Java y React;<br>• Idiomas:<br> Inglés, Español, Alemán;<br>• 📍 Juazeiro de Norte, Ceará - Brazil. | • 🔱 Psychologue im Berufswechsel;<br>• 📝 Full Stack Learner;<br>• 📝 Konzentriert sich derzeit auf Java und React;<br>• Sprachen:<br> Englisch, Spanisch, Deutsch;<br>• 📍 Juazeiro de Norte, Ceará - Brazil. |
 
@@ -34,5 +34,3 @@
   <a href =mailto:stefany.marques06@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/stephmarques_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
-
-
