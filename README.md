@@ -1,4 +1,6 @@
-# Welcome! 👋
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1D950E&random=false&width=435&lines=Welcome!+I'm+St%C3%A9fany+Marques+%F0%9F%91%8B)](https://git.io/typing-svg)
+
+
 
 | ![Brazil](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png "Brazil") Olá, sou Stéfany | ![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States") Hello, I'm Stéfany | ![Spain](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/es.png "Spain") Hola, soy Stéfany  | ![Germany](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/de.png "Germany") Hallo, Ich bin Stéfany |
 | --- | --- | --- | --- |
