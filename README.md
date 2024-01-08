@@ -29,7 +29,12 @@
   <img align="center" alt="Ste-Mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"> 
   <img align="center" alt="Ste-Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Ste-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="Ste-visualstudio" height="30" width="40" src="https://growiz.com.br/wp-content/uploads/2020/08/kisspng-c-programming-language-logo-microsoft-visual-stud-atlas-portfolio-5b899192d7c600.1628571115357423548838.png">ㅤ ㅤㅤㅤ ㅤ ㅤㅤ ㅤㅤ ㅤ ㅤ
+  <img align="center" alt="Ste-nextjs" height="30" width="40" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*W0fC854FAMD1EP60bnl2lg.png">
+  <img align="center" alt="Ste-csharp" height="30" width="40" src="https://growiz.com.br/wp-content/uploads/2020/08/kisspng-c-programming-language-logo-microsoft-visual-stud-atlas-portfolio-5b899192d7c600.1628571115357423548838.png">ㅤ 
+ㅤ 
+<li> Other learnings: Data Analytics by Google </li>
+  
+    
   
 
   <h2> Contact me </h2>
