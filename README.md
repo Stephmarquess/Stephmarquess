@@ -1,6 +1,6 @@
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1D950E&random=false&width=435&lines=Welcome!+I'm+St%C3%A9fany+Marques+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-
+# 🚀 Desenvolvedora Fullstack 
 
 | ![Brazil](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png "Brazil") Olá, sou Stéfany | ![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States") Hello, I'm Stéfany | ![Spain](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/es.png "Spain") Hola, soy Stéfany  | ![Germany](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/de.png "Germany") Hallo, Ich bin Stéfany |
 | --- | --- | --- | --- |
@@ -9,15 +9,28 @@
 <img align="right">
 <div align="center">
 
-<br><br>
-<div align = "center">  
-<a href="https://github.com/Stephmarquess">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stephmarquess&layout=compact&langs_count=7&theme=dracula&title_color=32CD32"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Stephmarquess&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&title_color=32CD32"/>
-</div>  
+<br>
+
+<div align="left">
+<h3> Resumo Profissional</h3>
+<li> Experiência em HTML, CSS, JavaScript, ReactJS, NodeJs, Java, e MySQL. </li>
+<li> Experiência anterior em Psicologia Clínica e Organizacional, com foco em Transtornos de Ansiedade e Gestão de Pessoas </li>
+<li> Softskills: Comunicação, Trabalho em equipe, flexibilidade </li>
+
+
+<h3> <strong> Formações </strong> </h3> 
+<li> Desenvolvimendo FullStack pela RECODE PRO 2023/2024 (Técnico) </li>
+<li> Psicologia pelo Centro Universitário Dr. Leão Sampaio - UNILEÃO (2020) (Bacharelado) </li>ㅤ 
+
+
+<h3>Objetivo Profissional </h3>
+<li> Aprimorar minhas habilidades em Desenvolvimento FullStack </li>
+
+</div><br>
+
 
 <div style="display: inline_block" align = "center"><br> 
-  <h2> Learning </h2>
+  <h2> Stacks </h2>
   <img align="center" alt="Ste-VS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">  
   <img align="center" alt="Ste-Html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
   <img align="center" alt="Ste-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
@@ -30,15 +43,18 @@
   <img align="center" alt="Ste-Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Ste-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="Ste-nextjs" height="30" width="40" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*W0fC854FAMD1EP60bnl2lg.png">
-  <img align="center" alt="Ste-csharp" height="30" width="40" src="https://growiz.com.br/wp-content/uploads/2020/08/kisspng-c-programming-language-logo-microsoft-visual-stud-atlas-portfolio-5b899192d7c600.1628571115357423548838.png">ㅤ 
-ㅤ 
-<li> Other learnings: Data Analytics by Google </li>
-  
-    
+</div><br>
+<li> Também estudando: Análise de Dados </li>
+<br><br>
+<div align = "center">  
+<a href="https://github.com/Stephmarquess">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stephmarquess&layout=compact&langs_count=7&theme=dracula&title_color=32CD32"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Stephmarquess&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&title_color=32CD32"/>
+</div>    
   
 
-  <h2> Contact me </h2>
+  <h2> Contato </h2>
   <a href="https://www.linkedin.com/in/st%C3%A9fany-marques/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href =mailto:stefany.marques06@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href =mailto:smouramkt@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/stephmarques_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
