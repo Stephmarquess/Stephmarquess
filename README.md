@@ -24,7 +24,7 @@
 
 
 <h3>Objetivo Profissional </h3>
-<li> Aprimorar minhas habilidades em Desenvolvimento FullStack </li>
+<li> Fornecer soluções em tecnologia, trabalhar em projetos de impacto e contribuir para o conhecimento na área /li>
 
 </div><br>
 
