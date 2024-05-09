@@ -24,7 +24,7 @@
 
 
 <h3>Objetivo Profissional </h3>
-<li> Fornecer soluções em tecnologia, trabalhar em projetos de impacto e contribuir para o conhecimento na área /li>
+<li> Combinanr os meus conhecimentos nas das áreas de formação para trabalhar em projetos de impacto, desenvolvendo soluções tecnológicas e contribuir para o conhecimento na área </li>
 
 </div><br>
 
