@@ -13,7 +13,7 @@
 
 <div align="left">
 <h3> Resumo Profissional</h3>
-<li> Experiência em HTML, CSS, JavaScript, ReactJS, NodeJs, Java, e MySQL. </li>
+<li> Experiência em HTML, CSS, JavaScript, ReactJS, NextJs, Java, e MySQL. </li>
 <li> Experiência anterior em Psicologia Clínica e Organizacional, com foco em Transtornos de Ansiedade e Gestão de Pessoas </li>
 <li> Softskills: Comunicação, Trabalho em equipe, flexibilidade </li>
 
