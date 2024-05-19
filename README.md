@@ -24,7 +24,7 @@
 
 
 <h3>Objetivo Profissional </h3>
-<li> Combinanr os meus conhecimentos nas das áreas de formação para trabalhar em projetos de impacto, desenvolvendo soluções tecnológicas e contribuir para o conhecimento na área </li>
+<li> Combinar os meus conhecimentos nas das áreas de formação para trabalhar em projetos de impacto, desenvolvendo soluções tecnológicas e contribuir para o conhecimento na área </li>
 
 </div><br>
 
@@ -44,7 +44,6 @@
   <img align="center" alt="Ste-react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="Ste-nextjs" height="30" width="40" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*W0fC854FAMD1EP60bnl2lg.png">
 </div><br>
-<li> Também estudando: Análise de Dados </li>
 <br><br>
 <div align = "center">  
 <a href="https://github.com/Stephmarquess">
@@ -52,7 +51,6 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Stephmarquess&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&title_color=32CD32"/>
 </div>    
   
-
   <h2> Contato </h2>
   <a href="https://www.linkedin.com/in/st%C3%A9fany-marques/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href =mailto:smouramkt@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
