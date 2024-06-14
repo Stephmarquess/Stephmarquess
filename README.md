@@ -1,13 +1,18 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1D950E&random=false&width=435&lines=Welcome!+I'm+St%C3%A9fany+Marques+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-# 🚀 Desenvolvedora Fullstack 
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1D950E&random=false&width=435&lines=Welcome!+I'm+St%C3%A9fany+Marques+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-| ![Brazil](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png "Brazil") Olá, sou Stéfany | ![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States") Hello, I'm Stéfany | ![Spain](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/es.png "Spain") Hola, soy Stéfany  | ![Germany](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/de.png "Germany") Hallo, Ich bin Stéfany |
-| --- | --- | --- | --- |
-| • 🔱 Psicóloga em transição de carreira;<br>• 📝 Estudante Full Stack;<br>• 📝 Atualmente, focada em Java e React;<br>• Idiomas:<br> Inglês, Espanhol, Alemão;<br>• 📍 Juazeiro de Norte, Ceará - Brasil. | • 🔱 Psychologist in career transition;<br>• 📝 Full Stack Student;<br>• 📝 Currently, focused on Java and React;<br>• Languages:<br> English, Spanish, German;<br> - 📍 Juazeiro de Norte, Ceará - Brazil. | • 🔱 Psicologa en transición profesional;<br>• 📝 Estudiante Full Stack;<br>• 📝 Actualmente, enfocada en Java y React;<br>• Idiomas:<br> Inglés, Español, Alemán;<br>• 📍 Juazeiro de Norte, Ceará - Brazil. | • 🔱 Psychologue im Berufswechsel;<br>• 📝 Full Stack Learner;<br>• 📝 Konzentriert sich derzeit auf Java und React;<br>• Sprachen:<br> Englisch, Spanisch, Deutsch;<br>• 📍 Juazeiro de Norte, Ceará - Brazil. |
+# ![Brazil](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png "Brazil") Olá, sou Stéfany
+• 🔱 Psicóloga em transição de carreira;<br>• 📝 Estudante Full Stack;<br>• 📝 Atualmente, focada em Java e React;<br>• Idiomas: Inglês, Espanhol, Alemão;
+<br>• 📍 Juazeiro de Norte, Ceará - Brasil. 
+# ![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States") Hello, I'm Stéfany 
+• 🔱 Psychologist in career transition;<br>• 📝 Full Stack Student;<br>• 📝 Currently, focused on Java and React;<br>•
+ Languages: English, Spanish, German;<br>
+ • 📍 Juazeiro de Norte, Ceará - Brazil.
 
 <img align="right">
 <div align="center">
+
+# 🚀 Desenvolvedora Fullstack 
 
 <br>
 
