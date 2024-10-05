@@ -18,13 +18,13 @@
 
 <div align="left">
 <h3> Resumo Profissional</h3>
-<li> Experiência em HTML, CSS, JavaScript, ReactJS, NextJs, Java, e MySQL. </li>
-<li> Experiência anterior em Psicologia Clínica e Organizacional, com foco em Transtornos de Ansiedade e Gestão de Pessoas </li>
+<li> Experiência em JavaScript, ReactJS, NextJs, Java, e MySQL. </li>
+<li> Experiência anterior como Desenvolvedora Full Stack na RECODE </li>
 <li> Softskills: Comunicação, Trabalho em equipe, flexibilidade </li>
 
 
 <h3> <strong> Formações </strong> </h3> 
-<li> Desenvolvimendo FullStack pela RECODE PRO 2023/2024 (Técnico) </li>
+<li> Desenvolvimendo Full Stack pela RECODE PRO 2023/2024 (Técnico) </li>
 <li> Psicologia pelo Centro Universitário Dr. Leão Sampaio - UNILEÃO (2020) (Bacharelado) </li>ㅤ 
 
 
