@@ -2,10 +2,10 @@
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1D950E&random=false&width=435&lines=Welcome!+I'm+St%C3%A9fany+Marques+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 # ![Brazil](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png "Brazil") Olá, sou Stéfany
-• 🔱 Psicóloga em transição de carreira;<br>• 📝 Estudante Full Stack;<br>• 📝 Atualmente, focada em Java e React;<br>• Idiomas: Inglês, Espanhol, Alemão;
+• 🔱 Psicóloga em transição de carreira;<br>• 📝 Estudante Full Stack;<br>• 📝 Atualmente trabalhando como Desenvolvedora Full Stack na ESX;<br>• Idiomas: Inglês, Espanhol, Alemão;
 <br>• 📍 Juazeiro de Norte, Ceará - Brasil. 
 # ![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States") Hello, I'm Stéfany 
-• 🔱 Psychologist in career transition;<br>• 📝 Full Stack Student;<br>• 📝 Currently, focused on Java and React;<br>•
+• 🔱 Psychologist in career transition;<br>• 📝 Full Stack Student;<br>• 📝 Currently, working as Full Stack Developer at ESX<br>•
  Languages: English, Spanish, German;<br>
  • 📍 Juazeiro de Norte, Ceará - Brazil.
 
