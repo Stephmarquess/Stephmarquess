@@ -29,7 +29,7 @@
 
 
 <h3>Objetivo Profissional </h3>
-<li> Combinar os meus conhecimentos nas das áreas de formação para trabalhar em projetos de impacto, desenvolvendo soluções tecnológicas e contribuir para o conhecimento na área </li>
+<li> Construir e aprimorar soluções tecnológicas com foco em escalabilidade, confiabilidade e princípios de SRE, visando aplicações confiáveis e de maior eficiência operacional. </li>
 
 </div><br>
 
