@@ -18,7 +18,7 @@
 
 <div align="left">
 <h3> Resumo Profissional</h3>
-<li> Experiência em JavaScript, ReactJS,React Native, NestJs e MySQL. </li>
+<li> Experiência em JavaScript, ReactJS,React Native, NestJs, MySQL e VTEX </li>
 <li> Experiência anterior como Desenvolvedora Full Front-End e Desenvolvedora Mobile na AR&CO </li>
 <li> Softskills: Comunicação, Trabalho em equipe, flexibilidade </li>
 
